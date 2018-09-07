@@ -1,0 +1,8 @@
+version: "Apple Swift version 4.1.2 (swiftlang-902.0.54 clang-902.0.39.2)"
+options: "8d9841c92f0db5d9e7110b956f415408"
+build_time: [1536259519, 634821000]
+inputs:
+  "/Users/himanshu/Downloads/Clima-iOS11-master/Clima/WeatherDataModel.swift": [1510803452, 0]
+  "/Users/himanshu/Downloads/Clima-iOS11-master/Clima/WeatherViewController.swift": [1510803452, 0]
+  "/Users/himanshu/Downloads/Clima-iOS11-master/Clima/AppDelegate.swift": [1510803452, 0]
+  "/Users/himanshu/Downloads/Clima-iOS11-master/Clima/ChangeCityViewController.swift": [1510803452, 0]
